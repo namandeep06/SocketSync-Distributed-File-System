@@ -1,0 +1,2 @@
+# SocketSync-Distributed File System
+ Developed a socket client-server application on Linux using C to implement a distributed file system with three servers: Smain, Spdf, and Stext.Designed the system to support multiple client connections, enabling clients to upload, store, and retrieve files of specific types (.c, .pdf, .txt).Applied advanced socket programming, process forking, and inter-process communication techniques to ensure efficient and secure file management across servers
